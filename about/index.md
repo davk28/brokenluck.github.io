@@ -24,7 +24,9 @@ We are an active semi-farming G1 guild.
 ## Rules
 
 Everyone is expected to play fairly. Members are expected to have a good
-understanding of battle mechanics, attack fairly, and use their swords.
+understanding of battle mechanics, attack fairly, and use their swords. If you
+can't use your swords, members are expected to let one of the officers know
+before the outage.
 
 ## Communication
 
