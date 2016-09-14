@@ -5,7 +5,7 @@ tags: [members]
 comments: false
 ---
 
-## Meet The Team
+## Officers
 
 * Darren (<b>GM</b>)
   * IGN: <b>SanguineRane</b>
@@ -16,6 +16,10 @@ comments: false
 * Haru (<b>VGM</b>)
   * IGN: <b>Ayumi1</b>
   * Line: <b>Haru</b>
+
+## Members
+
+* Coming soon!
 
 ## Guild Picture
 
