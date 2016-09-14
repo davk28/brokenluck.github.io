@@ -7,26 +7,50 @@ comments: false
 
 ## Officers
 
-* Darren (<b>GM</b>)
+* Darren (<b class='officer'>GM</b>)
   * IGN: <b>SanguineRane</b>
   * Line: <b>sanguinerane</b>
-* Dave (<b>VGM</b>)
-  * IGN: <b>ArizonaIce</b>
-  * Line: <b>ArizonaIce</b>
-* Haru (<b>VGM</b>)
+* Dave (<b class='officer'>VGM</b>)
+  * IGN: <b>ArizonaIce</b>, <b>W̶interful</b>
+  * Line: <b>Arizona Ice</b>
+* Haru (<b class='officer'>VGM</b>)
   * IGN: <b>Ayumi1</b>
   * Line: <b>Haru</b>
 
 ## Members
 
-* Coming soon!
-
-## Guild Picture
-
-Show off your guild pride by setting this as your profile picture:
-
-<figure>
-  <a href="../assets/img/profile.png" class="image-popup">
-    <img src="../assets/img/profile.png">
-  </a>
-</figure>
+* Wilkens
+  * IGN: <b>Longfangz</b>
+* Jason
+  * IGN: <b>Zaise</b>
+  * Line: <b>Jason Li</b>
+* Little Terror
+  * IGN: <b>Little_Terror</b>
+  * Line: <b>Little Terror</b>
+* Dicky
+  * IGN: <b>{☆XiauPing☆}</b>
+  * Line: <b>Dicky_Liu</b>
+* Gabriel
+  * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
+  * Line: <b>Gabriel Munoz</b>
+* Logan
+  * IGN: <b>Chaoxic</b>
+  * Line: <b>Logan Query</b>
+* Paul
+  * IGN: <b>Keltry9258</b>
+  * Line: <b>Paul9258</b>
+* Ahmad
+  * IGN: <b>Hammon8</b>
+  * Line: <b>Ahmad Ghozi</b>
+* Katana
+  * IGN: <b>XWingKatana</b>
+  * Line: <b>XWingKatana</b>
+* Eric
+  * IGN: <b>ScytheHunter</b>
+  * Line: <b>ScytheHunter</b>
+* Tin
+  * IGN: <b>Sntinman</b>
+  * Line: <b>Sntinman</b>
+* Brady
+  * IGN: <b>ShadyTheOG</b>
+  * Line: <b>Shady</b>

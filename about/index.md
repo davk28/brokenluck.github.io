@@ -37,3 +37,13 @@ group there where people joke around, chat about strategy, and hang out.
 
 Contact <b>sanguinerane</b> on Line or send a request to <b>Cursed&Lucky</b>
 in-game.
+
+## Guild Picture
+
+Show off your guild pride by setting this as your profile picture:
+
+<figure>
+  <a href="../assets/img/profile.png" class="image-popup">
+    <img src="../assets/img/profile.png" class="image-small">
+  </a>
+</figure>
