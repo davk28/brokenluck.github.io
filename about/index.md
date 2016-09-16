@@ -35,6 +35,7 @@ group there where people joke around, chat about strategy, and hang out.
 
 ## Join The Team
 
+<a href="#join"></a>
 Contact <b>sanguinerane</b> (Darren) or <b>davk28</b> (Dave) on Line. We'll add
 you to the Line group and then to the guild in-game (<b>Cursed&Lucky</b>).
 

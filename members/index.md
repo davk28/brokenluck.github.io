@@ -54,3 +54,5 @@ comments: false
 * Brady
   * IGN: <b>ShadyTheOG</b>
   * Line: <b>Shady</b>
+
+## <a href="/about#join">Join the team!</a>
