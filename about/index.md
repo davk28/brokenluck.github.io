@@ -21,12 +21,23 @@ We are an active semi-farming G1 guild.
   * 8:30am server time morning battle starts
   * 2:30pm server time evening battle starts
 
-## Rules
+## Expectations
 
 Everyone is expected to play fairly. Members are expected to have a good
 understanding of battle mechanics, attack fairly, and use their swords. If you
 can't use your swords, members are expected to let one of the officers know
 before the outage.
+
+Each tower has a bonus point associated with it: +3, +2, +1, or none. Attacking
+fairly means that on farming battles, never go above +6 collective bonus
+points.
+
+For battles that aren't obvious wins, members should attack towers for
+percentage. Use your discretion and attack towers that you think you can win.
+If sensible, always attack greens towers first, yellows next, and reds last.
+
+If any of the above expectations aren't met, one of your officers may reach
+out to you directly on Line and we may take you out the next guild battle.
 
 ## Communication
 
