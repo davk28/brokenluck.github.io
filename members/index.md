@@ -23,25 +23,25 @@ comments: false
   * IGN: <b>Longfangz</b>
 * Jason
   * IGN: <b>Zaise</b>
-  * Line: <b>Jason Li</b>
+  * Line: <b>Jason</b>
 * Little Terror
   * IGN: <b>Little_Terror</b>
   * Line: <b>Little Terror</b>
 * Dicky
   * IGN: <b>{☆XiauPing☆}</b>
-  * Line: <b>Dicky_Liu</b>
+  * Line: <b>Dicky</b>
 * Gabriel
   * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
-  * Line: <b>Gabriel Munoz</b>
+  * Line: <b>Gabriel</b>
 * Logan
   * IGN: <b>Chaoxic</b>
-  * Line: <b>Logan Query</b>
+  * Line: <b>Logan</b>
 * Paul
   * IGN: <b>Keltry9258</b>
   * Line: <b>Paul9258</b>
 * Ahmad
   * IGN: <b>Hammon8</b>
-  * Line: <b>Ahmad Ghozi</b>
+  * Line: <b>Ahmad</b>
 * Katana
   * IGN: <b>XWingKatana</b>
   * Line: <b>XWingKatana</b>
