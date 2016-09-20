@@ -51,8 +51,8 @@ comments: false
 * Tin
   * IGN: <b>Sntinman</b>
   * Line: <b>Sntinman</b>
-* Brady
-  * IGN: <b>ShadyTheOG</b>
-  * Line: <b>Shady</b>
+* Lucas
+  * IGN: <b>lSyMpHoNyl</b>
+  * Line: <b>Lucas</b>
 
 ## <a href="/about#join">Join the team!</a>
