@@ -15,7 +15,7 @@ We are an active semi-farming G1 guild.
   * Half defense set (3 monster team + 1 monster team)
   * 8:30am server time morning battle starts
   * 8:30pm server time evening battle starts
-* Friday Evening
+* Friday Evening (8:30pm server time)
   * Full defense set (both 3 monster teams)
 * Saturday
   * 8:30am server time morning battle starts
@@ -24,9 +24,9 @@ We are an active semi-farming G1 guild.
 ## Expectations
 
 Everyone is expected to play fairly. Members are expected to have a good
-understanding of battle mechanics, attack fairly, and use their swords. If you
-can't use your swords, members are expected to let one of the officers know
-before the outage.
+understanding of battle mechanics, attack fairly, use their swords, and adjust
+their defenses according to the above schedule. If you can't use your swords,
+members are expected to let one of the officers know before the outage.
 
 Each tower has a bonus point associated with it: +3, +2, +1, or none. Attacking
 fairly means that on farming battles, never go above +6 collective bonus
