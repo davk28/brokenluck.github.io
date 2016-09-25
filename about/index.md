@@ -7,7 +7,14 @@ comments: false
 ---
 
 ## About
+
 We are an active semi-farming G1 guild.
+
+<figure>
+  <a href="../assets/img/info.png" class="image-popup">
+    <img src="../assets/img/info.png" class="image-small">
+  </a>
+</figure>
 
 ## Battle Schedule
 
@@ -46,9 +53,21 @@ group there where people joke around, chat about strategy, and hang out.
 
 ## Join The Team
 
-<a href="#join"></a>
+You must finish F3+ in weekly arena rankings, have 15+ 6★s, and must agree to
+follow the above expectations.
+
 Contact <b>sanguinerane</b> (Darren) or <b>davk28</b> (Dave) on Line. We'll add
 you to the Line group and then to the guild in-game (<b>Cursed&Lucky</b>).
+
+Join and you'll be rewarded:
+<figure>
+  <a href="../assets/img/stones.png" class="image-popup">
+    <img src="../assets/img/stones.png" class="image-small">
+  </a>
+  <a href="../assets/img/rewards.png" class="image-popup">
+    <img src="../assets/img/rewards.png" class="image-small">
+  </a>
+</figure>
 
 ## Guild Picture
 
