@@ -36,18 +36,6 @@ comments: false
 * Logan
   * IGN: <b>Chaoxic</b>
   * Line: <b>Logan</b>
-* Paul
-  * IGN: <b>Keltry9258</b>
-  * Line: <b>Paul9258</b>
-* Ahmad
-  * IGN: <b>Hammon8</b>
-  * Line: <b>Ahmad</b>
-* Katana
-  * IGN: <b>XWingKatana</b>
-  * Line: <b>XWingKatana</b>
-* Eric
-  * IGN: <b>ScytheHunter</b>
-  * Line: <b>ScytheHunter</b>
 * Tin
   * IGN: <b>Sntinman</b>
   * Line: <b>Sntinman</b>
