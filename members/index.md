@@ -42,5 +42,14 @@ comments: false
 * Lucas
   * IGN: <b>lSyMpHoNyl</b>
   * Line: <b>Lucas</b>
+* Nate
+  * IGN: <b>~Z.Pike~</b>
+  * Line: <b>[V] LOVELESS [V]</b>
+* David
+  * IGN: <b>HoboWithBacon</b>
+  * Line: <b>HoboWithBacon</b>
+* Ray
+  * IGN: <b>Raymundo22</b>
+  * Line: <b>Raymundo22</b>
 
 ## <a href="/about#join">Join the team!</a>
