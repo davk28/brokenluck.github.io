@@ -19,7 +19,7 @@ comments: false
 
 ## Members
 
-* Wilkens
+* Wil (Wilkens)
   * IGN: <b>Longfangz</b>
 * Jason
   * IGN: <b>Zaise</b>
@@ -30,7 +30,7 @@ comments: false
 * Dicky
   * IGN: <b>{☆XiauPing☆}</b>
   * Line: <b>Dicky</b>
-* Gabriel
+* Gabe (Gabriel)
   * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
   * Line: <b>Gabriel</b>
 * Logan
@@ -51,5 +51,8 @@ comments: false
 * Ray
   * IGN: <b>Raymundo22</b>
   * Line: <b>Raymundo22</b>
+* Tomo (Tomoyo)
+  * IGN: <b>ともちゃん</b>
+  * Line: <b>ともちゃん</b>
 
 ## <a href="/about#join">Join the team!</a>
