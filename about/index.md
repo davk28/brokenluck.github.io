@@ -67,7 +67,7 @@ For battles that aren't obvious wins, members should attack towers for
 percentage. Use your discretion and attack towers that you think you can win.
 If sensible, always attack greens towers first, yellows next, and reds last.
 
-If any of the above expectations aren't met, one of your officers may reach
+If any of the above expectations aren't met, one of our officers may reach
 out to you directly on Line and we may take you out the next guild battle.
 
 <hr/>
@@ -84,8 +84,9 @@ group there where people joke around, chat about strategy, and hang out.
 You must finish F3+ in weekly arena rankings, have 15+ 6★s, and must agree to
 follow the above expectations.
 
-Contact <b>sanguinerane</b> (Darren) or <b>davk28</b> (Dave) on Line. We'll add
-you to the Line group and then to the guild in-game (<b>Cursed&Lucky</b>).
+Contact <b>sanguinerane</b> (Darren) or <b>davk28</b> (Dave) on Line. We'll go
+over the rules with you, add you to the Line group, and then to the guild
+in-game (<b>Cursed&Lucky</b>).
 
 <hr/>
 
