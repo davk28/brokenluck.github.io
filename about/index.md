@@ -16,17 +16,41 @@ We are an active semi-farming G1 guild.
   </a>
 </figure>
 
+<hr/>
+
 ## Battle Schedule
 
-* Monday through Friday
-  * Half defense set (3 monster team + 1 monster team)
-  * 8:30am server time morning battle starts
-  * 8:30pm server time evening battle starts
-* Friday Evening (8:30pm server time)
-  * Full defense set (both 3 monster teams)
+* Sunday
+  * <b>Set half defense</b>
+    * 3 monster team + 1 monster team
+  * Battle registration
+    * Half defense must be set before midnight in order to be included in the
+      week's battle registration
+* Monday
+  * 8:30am morning battle starts
+  * 8:30pm evening battle starts
+* Tuesday
+  * 8:30am morning battle starts
+  * 8:30pm evening battle starts
+* Wednesday
+  * 8:30am morning battle starts
+  * 8:30pm evening battle starts
+* Thursday
+  * 8:30am morning battle starts
+  * 8:30pm evening battle starts
+  * <b>Set full defense</b>
+    * both teams are 3 monster teams
+* Friday
+  * 8:30am morning battle starts
+  * 8:30pm evening battle starts
 * Saturday
-  * 8:30am server time morning battle starts
-  * 2:30pm server time evening battle starts
+  * 8:30am morning battle starts
+  * <b>2:30pm afternoon battle starts</b>
+  * 10pm weekly guild war ends
+
+<b>Note: All times are in server time. US & Canada Pacific Time Zone</b>
+
+<hr/>
 
 ## Expectations
 
@@ -46,10 +70,14 @@ If sensible, always attack greens towers first, yellows next, and reds last.
 If any of the above expectations aren't met, one of your officers may reach
 out to you directly on Line and we may take you out the next guild battle.
 
+<hr/>
+
 ## Communication
 
 We use [Line](http://line.me/) for all guild communications. We have an active
 group there where people joke around, chat about strategy, and hang out.
+
+<hr/>
 
 ## Join The Team
 
@@ -68,6 +96,8 @@ Join and you'll be rewarded:
     <img src="../assets/img/rewards.png" class="image-small">
   </a>
 </figure>
+
+<hr/>
 
 ## Guild Picture
 
