@@ -12,7 +12,7 @@ We are an active semi-farming G1 guild.
 
 <figure>
   <a href="../assets/img/info.png" class="image-popup">
-    <img src="../assets/img/info.png" class="image-small">
+    <img src="../assets/img/info.png">
   </a>
 </figure>
 
@@ -87,13 +87,17 @@ follow the above expectations.
 Contact <b>sanguinerane</b> (Darren) or <b>davk28</b> (Dave) on Line. We'll add
 you to the Line group and then to the guild in-game (<b>Cursed&Lucky</b>).
 
+<hr/>
+
+## Rewards
+
 Join and you'll be rewarded:
 <figure>
   <a href="../assets/img/stones.png" class="image-popup">
-    <img src="../assets/img/stones.png" class="image-small">
+    <img src="../assets/img/stones.png">
   </a>
   <a href="../assets/img/rewards.png" class="image-popup">
-    <img src="../assets/img/rewards.png" class="image-small">
+    <img src="../assets/img/rewards.png">
   </a>
 </figure>
 
@@ -105,6 +109,6 @@ Show off your guild pride by setting this as your profile picture:
 
 <figure>
   <a href="../assets/img/profile.png" class="image-popup">
-    <img src="../assets/img/profile.png" class="image-small">
+    <img src="../assets/img/profile.png">
   </a>
 </figure>
