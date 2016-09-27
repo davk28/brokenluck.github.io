@@ -43,7 +43,7 @@ comments: false
   * IGN: <b>lSyMpHoNyl</b>
   * Line: <b>Lucas</b>
 * Nate
-  * IGN: <b>~Z.Pike~</b>
+  * IGN: <b>[\/]arauder</b>
   * Line: <b>[V] LOVELESS [V]</b>
 * David
   * IGN: <b>HoboWithBacon</b>
