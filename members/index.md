@@ -48,5 +48,8 @@ comments: false
 * Tomo (Tomoyo)
   * IGN: <b>ともちゃん</b>
   * Line: <b>ともちゃん</b>
+* Danie
+  * IGN: <b>FoxStrata</b>
+  * Line: <b>FoxStrata</b>
 
 ## <a href="/about#join">Join the team!</a>
