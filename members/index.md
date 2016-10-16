@@ -36,9 +36,6 @@ comments: false
 * Logan
   * IGN: <b>Chaoxic</b>
   * Line: <b>Logan</b>
-* Tin
-  * IGN: <b>Sntinman</b>
-  * Line: <b>Sntinman</b>
 * Lucas
   * IGN: <b>lSyMpHoNyl</b>
   * Line: <b>Lucas</b>
