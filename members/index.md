@@ -45,6 +45,15 @@ comments: false
 * Tomo (Tomoyo)
   * IGN: <b>ともちゃん</b>
   * Line: <b>ともちゃん</b>
+* Alan
+  * IGN: <b>-=[Alang]=-</b>
+  * Line: <b>-=[Alang]=-</b>
+* Rick
+  * IGN: <b>SummonD33Z</b>
+  * Line: <b>SummonD33Z</b>
+
+## Friends
+
 * Danie
   * IGN: <b>FoxStrata</b>
   * Line: <b>FoxStrata</b>
