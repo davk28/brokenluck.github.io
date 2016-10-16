@@ -20,32 +20,18 @@ We are an active semi-farming G1 guild.
 
 ## Battle Schedule
 
+Guild battles start at midnight and noon Monday - Saturday.
+
 * Sunday
   * <b>Set half defense</b>
     * 3 monster team + 1 monster team
   * Battle registration
     * Half defense must be set before midnight in order to be included in the
       week's battle registration
-* Monday
-  * 8:30am morning battle starts
-  * 8:30pm evening battle starts
-* Tuesday
-  * 8:30am morning battle starts
-  * 8:30pm evening battle starts
-* Wednesday
-  * 8:30am morning battle starts
-  * 8:30pm evening battle starts
-* Thursday
-  * 8:30am morning battle starts
-  * 8:30pm evening battle starts
+* Thursday Evening
   * <b>Set full defense</b>
     * both teams are 3 monster teams
-* Friday
-  * 8:30am morning battle starts
-  * 8:30pm evening battle starts
 * Saturday
-  * 8:30am morning battle starts
-  * <b>2:30pm afternoon battle starts</b>
   * 10pm weekly guild war ends
 
 <b>Note: All times are in server time. US & Canada Pacific Time Zone</b>
