@@ -51,6 +51,9 @@ comments: false
 * Rick
   * IGN: <b>SummonD33Z</b>
   * Line: <b>SummonD33Z</b>
+* Taylor
+  * IGN: <b>\*\*(Phoenix)\*\*</b>
+  * Line: <b>jzigs</b>
 
 ## Friends
 
