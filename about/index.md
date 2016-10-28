@@ -20,7 +20,7 @@ We are an active semi-farming G1 guild.
 
 ## Battle Schedule
 
-Guild battles start at midnight and noon Monday - Saturday.
+<b>Guild battles start at midnight and noon Monday - Saturday.</b>
 
 * Sunday
   * <b>Set half defense</b>
