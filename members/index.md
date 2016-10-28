@@ -54,6 +54,9 @@ comments: false
 * Taylor
   * IGN: <b>\*\*(Phoenix)\*\*</b>
   * Line: <b>jzigs</b>
+* Joe
+  * IGN: <b>EmVeePee</b>
+  * Line: <b>EmVeePee</b>
 
 ## Friends
 
