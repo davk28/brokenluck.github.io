@@ -14,7 +14,7 @@ comments: false
   * IGN: <b>ArizonaIce</b>, <b>W̶interful</b>
   * Line: <b>Arizona Ice</b>
 * Haru (<b class='officer'>VGM</b>)
-  * IGN: <b>Ayumi1</b>
+  * IGN: <b>_Haru</b>
   * Line: <b>Haru</b>
 
 ## Members
@@ -49,13 +49,13 @@ comments: false
   * IGN: <b>-=[Alang]=-</b>
   * Line: <b>-=[Alang]=-</b>
 * Rick
-  * IGN: <b>SummonD33Z</b>
+  * IGN: <b>SummonD33Z</b>, <b>100Fist</b>
   * Line: <b>SummonD33Z</b>
 * Taylor
-  * IGN: <b>\*\*(Phoenix)\*\*</b>
+  * IGN: <b>Jzigs</b>
   * Line: <b>jzigs</b>
 * Joe
-  * IGN: <b>EmVeePee</b>
+  * IGN: <b>emveepee</b>
   * Line: <b>EmVeePee</b>
 
 ## Friends
