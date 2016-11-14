@@ -11,13 +11,13 @@ comments: false
   * IGN: <b>SanguineRane</b>
   * Line: <b>sanguinerane</b>
 * Dave (<b class='officer'>VGM</b>)
-  * IGN: <b>ArizonaIce</b>, <b>W̶interful</b>
+  * IGN: <b>ArizonaIce</b>
   * Line: <b>Arizona Ice</b>
 * Haru (<b class='officer'>VGM</b>)
   * IGN: <b>_Haru</b>
   * Line: <b>Haru</b>
 
-## Members
+## Members (Defensive Line)
 
 * Wil (Wilkens)
   * IGN: <b>Longfangz</b>
@@ -36,15 +36,9 @@ comments: false
 * Logan
   * IGN: <b>Chaoxic</b>
   * Line: <b>Logan</b>
-* Lucas
-  * IGN: <b>lSyMpHoNyl</b>
-  * Line: <b>Lucas</b>
 * Ray
   * IGN: <b>Raymundo22</b>
   * Line: <b>Raymundo22</b>
-* Tomo (Tomoyo)
-  * IGN: <b>ともちゃん</b>
-  * Line: <b>ともちゃん</b>
 * Alan
   * IGN: <b>-=[Alang]=-</b>
   * Line: <b>-=[Alang]=-</b>
@@ -57,11 +51,25 @@ comments: false
 * Joe
   * IGN: <b>emveepee</b>
   * Line: <b>EmVeePee</b>
+* Matt
+  * IGN: <b>Alucryts</b>
+  * Line: <b>Alucryts</b>
 
 ## Friends
 
+* Lucas
+  * IGN: <b>lSyMpHoNyl</b>
+  * Line: <b>Lucas</b>
+* Tomo (Tomoyo)
+  * IGN: <b>ともちゃん</b>
+  * Line: <b>ともちゃん</b>
 * Danie
   * IGN: <b>FoxStrata</b>
   * Line: <b>FoxStrata</b>
+* Justin
+  * IGN: <b>W̶interful</b>
+  * Line: <b>Versed</b>
+* Ashli
+  * IGN: <b>Kage2324</b>
 
 ## <a href="/about#join">Join the team!</a>
