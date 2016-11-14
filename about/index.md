@@ -8,11 +8,24 @@ comments: false
 
 ## About
 
-We are an active semi-farming G1 guild.
+We are an active semi-farming G1-G2 guild.
 
 <figure>
   <a href="../assets/img/info.png" class="image-popup">
     <img src="../assets/img/info.png">
+  </a>
+</figure>
+
+<hr/>
+
+## Ranking
+
+Monday to Thursday, we farm at half defense. Thursday to Saturday, we set full
+defense and surge in ranking. We finish either G1 or G2.
+
+<figure>
+  <a href="../assets/img/ranking.jpg" class="image-popup">
+    <img src="../assets/img/ranking.jpg">
   </a>
 </figure>
 
