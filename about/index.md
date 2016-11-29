@@ -73,8 +73,8 @@ out to you directly on Line and we may take you out the next guild battle.
 
 ## Communication
 
-We use [Line](http://line.me/) for all guild communications. We have an active
-group there where people joke around, chat about strategy, and hang out.
+We use [Discord](https://discordapp.com/) for all guild communications. We have
+an active group there where people joke around, chat about strategy, and hang out.
 
 <hr/>
 
@@ -83,9 +83,8 @@ group there where people joke around, chat about strategy, and hang out.
 You must finish F3+ in weekly arena rankings, have 15+ 6★s, and must agree to
 follow the above expectations.
 
-Contact <b>sanguinerane</b> (Darren) or <b>davk28</b> (Dave) on Line. We'll go
-over the rules with you, add you to the Line group, and then to the guild
-in-game (<b>Cursed&Lucky</b>).
+Join the [Cursed&Lucky Discord Server](https://discord.gg/8U3ADbd). Once you're
+there, we'll go over the rules with you and then add you to the guild.
 
 <hr/>
 
