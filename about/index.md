@@ -6,6 +6,12 @@ date: 2016-03-21
 comments: false
 ---
 
+<div style="text-align: center;">
+  <a href="https://discord.gg/8U3ADbd" class="btn">
+    Join us on Discord
+  </a>
+</div>
+
 ## About
 
 We are an active semi-farming G1-G2 guild.
