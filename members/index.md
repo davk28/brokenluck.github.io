@@ -49,7 +49,7 @@ comments: false
   * IGN: <b>Jzigs</b>
   * Line: <b>jzigs</b>
 * Joe
-  * IGN: <b>emveepee</b>
+  * IGN: <b>emveepee</b>, <b>Freak@zoid</b>
   * Line: <b>EmVeePee</b>
 * Matt
   * IGN: <b>Alucryts</b>
