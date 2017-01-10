@@ -42,27 +42,9 @@ comments: false
 * Alan
   * IGN: <b>-=[Alang]=-</b>
   * Line: <b>-=[Alang]=-</b>
-* Rick
-  * IGN: <b>SummonD33Z</b>, <b>100Fist</b>
-  * Line: <b>SummonD33Z</b>
-* Taylor
-  * IGN: <b>Jzigs</b>
-  * Line: <b>jzigs</b>
-* Joe
-  * IGN: <b>emveepee</b>, <b>Freak@zoid</b>
-  * Line: <b>EmVeePee</b>
-* Matt
-  * IGN: <b>Alucryts</b>
-  * Line: <b>Alucryts</b>
 
 ## Friends
 
-* Lucas
-  * IGN: <b>lSyMpHoNyl</b>
-  * Line: <b>Lucas</b>
-* Tomo (Tomoyo)
-  * IGN: <b>ともちゃん</b>
-  * Line: <b>ともちゃん</b>
 * Danie
   * IGN: <b>FoxStrata</b>
   * Line: <b>FoxStrata</b>
@@ -71,5 +53,7 @@ comments: false
   * Line: <b>Versed</b>
 * Ashli
   * IGN: <b>Kage2324</b>
+* Sofi
+  * IGN: <b>SlyphyTu</b>
 
 ## <a href="/about#join">Join the team!</a>
