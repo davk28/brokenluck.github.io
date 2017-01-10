@@ -7,7 +7,7 @@ comments: false
 ---
 
 <div style="text-align: center;">
-  <a href="https://discord.gg/8U3ADbd" class="btn">
+  <a href="https://discord.gg/PqMtvE3" class="btn">
     Join us on Discord
   </a>
 </div>
