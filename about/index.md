@@ -89,7 +89,7 @@ an active group there where people joke around, chat about strategy, and hang ou
 You must finish F3+ in weekly arena rankings, have 15+ 6★s, and must agree to
 follow the above expectations.
 
-Join the [Cursed&Lucky Discord Server](https://discord.gg/8U3ADbd). Once you're
+Join the [Cursed&Lucky Discord Server](https://discord.gg/PqMtvE3). Once you're
 there, we'll go over the rules with you and then add you to the guild.
 
 <hr/>
