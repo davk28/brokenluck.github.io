@@ -30,9 +30,6 @@ comments: false
 * Dicky
   * IGN: <b>{☆XiauPing☆}</b>
   * Line: <b>Dicky</b>
-* Gabe (Gabriel)
-  * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
-  * Line: <b>Gabriel</b>
 * Logan
   * IGN: <b>Chaoxic</b>
   * Line: <b>Logan</b>
@@ -45,6 +42,9 @@ comments: false
 
 ## Friends
 
+* Gabe (Gabriel)
+  * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
+  * Line: <b>Gabriel</b>
 * Danie
   * IGN: <b>FoxStrata</b>
   * Line: <b>FoxStrata</b>
