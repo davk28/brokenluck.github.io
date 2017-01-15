@@ -42,6 +42,6 @@ comments: false
 * Ashli
   * IGN: <b>Kage2324</b>
 * Sofi
-  * IGN: <b>SlyphyTu</b>
+  * IGN: <b>SylphyTu</b>
 
 ## <a href="/about#join">Join the team!</a>
