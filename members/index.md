@@ -30,6 +30,8 @@ comments: false
   * IGN: <b>Raymundo22</b>
 * Alan
   * IGN: <b>-=[Alang]=-</b>
+* Misto
+  * IGN: <b>Mistokan</b>
 
 ## Friends
 
