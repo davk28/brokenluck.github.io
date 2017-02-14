@@ -14,7 +14,7 @@ comments: false
 
 ## About
 
-We are an active semi-farming G1-G2 guild.
+We are an active semi-farming G1-G2 guild, formerly known as 'Cursed&Lucky'.
 
 <figure>
   <a href="../assets/img/info.png" class="image-popup">
