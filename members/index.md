@@ -25,9 +25,7 @@ comments: false
 * Dicky
   * IGN: <b>{☆XiauPing☆}</b>
 * Logan
-  * IGN: <b>Chaoxic</b>
-* Ray
-  * IGN: <b>Raymundo22</b>
+  * IGN: <b>Chaoxic</b>, <b>Chaoxic2</b>
 * Alan
   * IGN: <b>-=[Alang]=-</b>
 * Misto
@@ -43,7 +41,7 @@ comments: false
   * IGN: <b>W̶interful</b>
 * Ashli
   * IGN: <b>Kage2324</b>
-* Sofi
-  * IGN: <b>SylphyTu</b>
+* Tyler
+  * IGN: <b>TaranSF</b>
 
 ## <a href="/about#join">Join the team!</a>
