@@ -1,3 +1,3 @@
-# Cursed & Lucky
+# Broken Luck
 
 SW Global Guardian Guild website.
