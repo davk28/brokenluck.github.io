@@ -86,7 +86,7 @@ an active group there where people joke around, chat about strategy, and hang ou
 
 ## Join The Team
 
-You must finish F3+ in weekly arena rankings, have 15+ 6★s, and must agree to
+You must finish C1+ in weekly arena rankings, have 15+ 6★s, and must agree to
 follow the above expectations.
 
 Join the [Broken Luck Discord Server](https://discord.gg/PqMtvE3). Once you're
