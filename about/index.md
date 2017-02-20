@@ -7,7 +7,7 @@ comments: false
 ---
 
 <div style="text-align: center;">
-  <a href="https://discord.gg/PqMtvE3" class="btn">
+  <a href="https://discordapp.com/invite/PqMtvE3" class="btn">
     Join us on Discord
   </a>
 </div>
@@ -89,7 +89,7 @@ an active group there where people joke around, chat about strategy, and hang ou
 You must finish C1+ in weekly arena rankings, have 15+ 6★s, and must agree to
 follow the above expectations.
 
-Join the [Broken Luck Discord Server](https://discord.gg/PqMtvE3). Once you're
+Join the [Broken Luck Discord Server](https://discordapp.com/invite/PqMtvE3). Once you're
 there, we'll go over the rules with you and then add you to the guild.
 
 <hr/>
