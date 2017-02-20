@@ -25,23 +25,40 @@ comments: false
 * Dicky
   * IGN: <b>{☆XiauPing☆}</b>
 * Logan
-  * IGN: <b>Chaoxic</b>, <b>Chaoxic2</b>
+  * IGN: <b>Chaoxic</b>, <b>Chaoxic2</b> (sub)
 * Alan
   * IGN: <b>-=[Alang]=-</b>
 * Misto
   * IGN: <b>Mistokan</b>
+* Divi
+  * IGN: <b>Divetus</b>, <b>wangblaster</b> (sub)
+* Leon
+  * IGN: <b>Leeonheart</b>
+* Mike
+  * IGN: <b>iToxygen</b>
+* Sandy
+  * IGN: <b>sandylmao</b>
+* Mark
+  * IGN: <b>dakid80</b>
 
-## Friends
+## Substitutes
 
 * Gabe (Gabriel)
   * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
-* Danie
-  * IGN: <b>FoxStrata</b>
 * Justin
   * IGN: <b>W̶interful</b>
+* Mark
+  * IGN: <b>PolarBearKing</b>
+* Kton
+  * IGN: <b>kton</b>
+
+## Friends
+
 * Ashli
   * IGN: <b>Kage2324</b>
 * Tyler
   * IGN: <b>TaranSF</b>
+* Derek (in <b>Revive</b>)
+  * IGN: <b>Haiwirbelsturm</b>
 
 ## <a href="/about#join">Join the team!</a>
