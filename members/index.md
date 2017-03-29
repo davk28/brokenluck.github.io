@@ -66,7 +66,7 @@ comments: false
   * IGN: <b>AlexGG93</b>
 * Derek (currently in guild <b>Revive</b>)
   * IGN: <b>Haiwirbelsturm</b>
-* Alan (<b class='officer'>EX-VGM</b> now in <b>S W A G</b> guild)
+* Alan (<b class='officer'>EX-VGM</b> now in guild <b>S W A G</b>)
   * IGN: <b>-=[Alang]=-</b>
 
 ## <a href="/about#join">Join the team!</a>
