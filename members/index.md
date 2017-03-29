@@ -34,7 +34,7 @@ comments: false
   * IGN: <b>dakid80</b>
 * Stephen
   * IGN: <b>Way2Saucey</b>
-* Haru
+* Haru (<b class='officer'>EX-VGM</b>)
   * IGN: <b>_Haru</b>
 
 ## Substitutes
@@ -64,9 +64,9 @@ comments: false
   * IGN: <b>MokaBlanco</b>
 * Alexander
   * IGN: <b>AlexGG93</b>
-* Derek (currently in <b>Revive</b> guild)
+* Derek (currently in guild <b>Revive</b>)
   * IGN: <b>Haiwirbelsturm</b>
-* Alan (<b class='officer'>ex-VGM</b> now in <b>S W A G</b> guild)
+* Alan (<b class='officer'>EX-VGM</b> now in <b>S W A G</b> guild)
   * IGN: <b>-=[Alang]=-</b>
 
 ## <a href="/about#join">Join the team!</a>
