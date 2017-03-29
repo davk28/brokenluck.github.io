@@ -11,8 +11,8 @@ comments: false
   * IGN: <b>SanguineRane</b>
 * Liz (<b class='officer'>VGM</b>)
   * IGN: <b>Divetus</b>, <b>wangblaster</b> (sub)
-* Haru (<b class='officer'>VGM</b>)
-  * IGN: <b>_Haru</b>
+* Dave (<b class='officer'>VGM</b>)
+  * IGN: <b>ArizonaIce</b>
 
 ## Members (Defensive Line)
 
@@ -34,6 +34,8 @@ comments: false
   * IGN: <b>dakid80</b>
 * Stephen
   * IGN: <b>Way2Saucey</b>
+* Haru (<b class='officer'>EX-VGM</b>)
+  * IGN: <b>_Haru</b>
 
 ## Substitutes
 
@@ -49,8 +51,6 @@ comments: false
   * IGN: <b>Zaise</b>
 * Misto
   * IGN: <b>Mistokan</b>
-* Dave (<b class='officer'>ex-VGM</b>)
-  * IGN: <b>ArizonaIce</b>
 
 ## Friends
 
@@ -58,9 +58,15 @@ comments: false
   * IGN: <b>Kage2324</b>
 * Tyler
   * IGN: <b>TaranSF</b>
-* Derek (in <b>Revive</b> guild)
+* Rodrigo
+  * IGN: <b>xSharpScrolls</b>
+* Alejandro
+  * IGN: <b>MokaBlanco</b>
+* Alexander
+  * IGN: <b>AlexGG93</b>
+* Derek (currently in guild <b>Revive</b>)
   * IGN: <b>Haiwirbelsturm</b>
-* Alan (<b class='officer'>ex-VGM</b> in <b>S W A G</b> guild)
+* Alan (<b class='officer'>EX-VGM</b> now in <b>S W A G</b> guild)
   * IGN: <b>-=[Alang]=-</b>
 
 ## <a href="/about#join">Join the team!</a>
