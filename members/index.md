@@ -16,6 +16,8 @@ comments: false
 
 ## Members (Defensive Line)
 
+* Haru (<b class='officer'>EX-VGM</b>)
+  * IGN: <b>_Haru</b>
 * Wil (Wilkens)
   * IGN: <b>Longfangz</b>
 * Little Terror
@@ -34,8 +36,6 @@ comments: false
   * IGN: <b>dakid80</b>
 * Stephen
   * IGN: <b>Way2Saucey</b>
-* Haru (<b class='officer'>EX-VGM</b>)
-  * IGN: <b>_Haru</b>
 
 ## Substitutes
 
@@ -64,6 +64,8 @@ comments: false
   * IGN: <b>MokaBlanco</b>
 * Alexander
   * IGN: <b>AlexGG93</b>
+* Sebastian
+  * IGN: <b>MrDupree</b>
 * Derek (currently in guild <b>Revive</b>)
   * IGN: <b>Haiwirbelsturm</b>
 * Alan (<b class='officer'>EX-VGM</b> now in guild <b>S W A G</b>)
