@@ -43,7 +43,8 @@ defense and surge in ranking. We finish either G1 or G2.
 
 * Sunday
   * <b>Set half defense</b>
-    * 3 monster team + 1 monster team
+    * 3 monster team + 1 monster team or
+    * 2 monster team + 2 monster team
   * Battle registration
     * Half defense must be set before midnight in order to be included in the
       week's battle registration
