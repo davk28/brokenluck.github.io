@@ -14,7 +14,16 @@ comments: false
 
 ## About
 
-We are an active semi-farming G1-G2 guild, formerly known as 'Cursed&Lucky'.
+There are two Broken Luck guilds, "Broken Luck" and "Broken Luck II". Both
+guilds are part of the same organization and share the same Discord chat.
+"Broken Luck" is fromerly known as "Cursed&Lucky".
+
+* * *
+
+* Broken Luck is semi-farming G1-G2 guild
+* Broken Luck II is a full-farming C2-C3 guild
+
+* * *
 
 <figure>
   <a href="../assets/img/info.png" class="image-popup">
