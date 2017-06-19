@@ -20,8 +20,8 @@ guilds are part of the same organization and share the same Discord chat.
 
 * * *
 
-* Broken Luck is semi-farming G1-G2 guild
-* Broken Luck II is a full-farming C2-C3 guild
+* Broken Luck is semi-rush G2 guild
+* Broken Luck II is a semi-farming G1 guild
 
 * * *
 
@@ -48,7 +48,24 @@ defense and surge in ranking. We finish either G1 or G2.
 
 ## Battle Schedule
 
-<b>Guild battles start at midnight and noon Monday - Saturday.</b>
+<b>
+  Guild battles start at midnight and noon Monday - Saturday.<br/>
+  <i>Note: All times are in server time. US & Canada Pacific Time Zone</i>
+</b>
+
+#### Broken Luck (Semi-Rush)
+
+* Full Defense All Week
+* Sunday Reset, No Battle 12AM-12PM
+* Monday through Friday
+  * Noon & Midnight battle starts
+* Saturday
+  * 12PM Second to Last Battle
+  * 5PM Last Battle
+
+<hr/>
+
+#### Broken Luck II (Semi-Farm)
 
 * Sunday
   * <b>Set half defense</b>
@@ -62,8 +79,6 @@ defense and surge in ranking. We finish either G1 or G2.
     * both teams are 3 monster teams
 * Saturday
   * 10pm weekly guild war ends
-
-<b>Note: All times are in server time. US & Canada Pacific Time Zone</b>
 
 <hr/>
 
