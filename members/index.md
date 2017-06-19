@@ -5,19 +5,29 @@ tags: [members]
 comments: false
 ---
 
-## Officers
+## Broken Luck (Semi-Rush)
 
+* Dayvid (<b class='officer'>GM</b>)
+  * IGN: <b>ArizonaIce</b>
 * Darren (<b class='officer'>GM</b>)
   * IGN: <b>SanguineRane</b>
-* Liz (<b class='officer'>VGM</b>)
-  * IGN: <b>Divetus</b>, <b>wangblaster</b> (sub)
-* Dave (<b class='officer'>VGM</b>)
-  * IGN: <b>ArizonaIce</b>
-
-## Members (Defensive Line)
-
-* Haru (<b class='officer'>EX-VGM</b>)
+* Leon (<b class='officer'>GM</b>)
+  * IGN: <b>Leeonheart</b>
+* Haru
   * IGN: <b>_Haru</b>
+* Mike
+  * IGN: <b>iToxygen</b>
+* Mark
+  * IGN: <b>dakid80</b>
+* Stephen
+  * IGN: <b>Way2Saucey</b>
+* Liz
+  * IGN: <b>Divetus</b>, <b>wangblaster</b> (sub)
+
+## Broken Luck II (Semi-Farm)
+
+* Sandy (<b class='officer'>GM</b>)
+  * IGN: <b>sandylmao</b>
 * Wil (Wilkens)
   * IGN: <b>Longfangz</b>
 * Little Terror
@@ -26,21 +36,11 @@ comments: false
   * IGN: <b>{☆XiauPing☆}</b>
 * Logan
   * IGN: <b>Chaoxic</b>, <b>Chaoxic2</b> (sub)
-* Leon
-  * IGN: <b>Leeonheart</b>
-* Mike
-  * IGN: <b>iToxygen</b>
-* Sandy
-  * IGN: <b>sandylmao</b>
-* Mark
-  * IGN: <b>dakid80</b>
-* Stephen
-  * IGN: <b>Way2Saucey</b>
+* Gabe (Gabriel)
+  * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
 
 ## Substitutes
 
-* Gabe (Gabriel)
-  * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
 * Justin
   * IGN: <b>W̶interful</b>
 * Mark
