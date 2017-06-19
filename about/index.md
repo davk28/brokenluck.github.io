@@ -35,8 +35,7 @@ guilds are part of the same organization and share the same Discord chat.
 
 ## Ranking
 
-Monday to Thursday, we farm at half defense. Thursday to Saturday, we set full
-defense and surge in ranking. We finish either G1 or G2.
+Broken Luck (fromerly Cursed&Lucky) holds G2 when rankings close.
 
 <figure>
   <a href="../assets/img/ranking.jpg" class="image-popup">
@@ -113,7 +112,7 @@ an active group there where people joke around, chat about strategy, and hang ou
 
 #### Broken Luck
 
-You must finish C1+ in weekly arena rankings and have 25+ 6★s.
+You must finish high C1+ in weekly arena rankings and have 25+ 6★s.
 
 #### Broken Luck II
 
