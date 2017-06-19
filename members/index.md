@@ -9,9 +9,9 @@ comments: false
 
 * Dayvid (<b class='officer'>GM</b>)
   * IGN: <b>ArizonaIce</b>
-* Darren (<b class='officer'>GM</b>)
+* Darren (<b class='officer'>VGM</b>)
   * IGN: <b>SanguineRane</b>
-* Leon (<b class='officer'>GM</b>)
+* Leon (<b class='officer'>VGM</b>)
   * IGN: <b>Leeonheart</b>
 * Haru
   * IGN: <b>_Haru</b>
@@ -21,6 +21,8 @@ comments: false
   * IGN: <b>dakid80</b>
 * Stephen
   * IGN: <b>Way2Saucey</b>
+* Misto
+  * IGN: <b>Mistookan</b>
 * Liz
   * IGN: <b>Divetus</b>, <b>wangblaster</b> (sub)
 
@@ -28,29 +30,49 @@ comments: false
 
 * Sandy (<b class='officer'>GM</b>)
   * IGN: <b>sandylmao</b>
+* Logan (<b class='officer'>VGM</b>)
+  * IGN: <b>Chaoxic</b>
+* Kevin (<b class='officer'>VGM</b>)
+  * IGN: <b>Onig1ri</b>
 * Wil (Wilkens)
   * IGN: <b>Longfangz</b>
+* Nicole
+  * IGN: <b>NinaScarlet</b>
+* Anthony
+  * IGN: <b>ShinyPotato</b>
+* Sam
+  * IGN: <b>Scorp188</b>
+* Sean
+  * IGN: <b>NewRush</b>
+* Dave
+  * IGN: <b>Mysticelfs</b>
+* ()
+  * IGN: <b>SpinnySpinman</b>
 * Little Terror
   * IGN: <b>Little_Terror</b>
 * Dicky
   * IGN: <b>{☆XiauPing☆}</b>
-* Logan
-  * IGN: <b>Chaoxic</b>, <b>Chaoxic2</b> (sub)
+* Coca
+  * IGN: <b>ƎNI∀ƆOƆ</b>
 * Gabe (Gabriel)
-  * IGN: <b>OMG_Gogoing</b>, <b>Yaph's</b>
+  * IGN: <b>OMG_Gogoing</b>
 
 ## Substitutes
 
 * Justin
   * IGN: <b>W̶interful</b>
-* Mark
-  * IGN: <b>PolarBearKing</b>
-* Kton
-  * IGN: <b>kton</b>
-* Jason
-  * IGN: <b>Zaise</b>
-* Misto
-  * IGN: <b>Mistokan</b>
+* Peter
+  * IGN: <b>thclsddmt</b>
+* Rodrigo
+  * IGN: <b>xSharpScrolls</b>
+* Alejandro
+  * IGN: <b>MokaBlanco</b>
+* Sebastian
+  * IGN: <b>MrDupree</b>
+* Tanner
+  * IGN: <b>DatGuyLirik</b>
+* Cody
+  * IGN: <b>Ccarcev</b>
 
 ## Friends
 
@@ -58,14 +80,12 @@ comments: false
   * IGN: <b>Kage2324</b>
 * Tyler
   * IGN: <b>TaranSF</b>
-* Rodrigo
-  * IGN: <b>xSharpScrolls</b>
-* Alejandro
-  * IGN: <b>MokaBlanco</b>
-* Alexander
-  * IGN: <b>AlexGG93</b>
-* Sebastian
-  * IGN: <b>MrDupree</b>
+* Mark
+  * IGN: <b>PolarBearKing</b>
+* Jason
+  * IGN: <b>Zaise</b>
+* Kton
+  * IGN: <b>kton</b>
 * Derek (currently in guild <b>Revive</b>)
   * IGN: <b>Haiwirbelsturm</b>
 * Alan (<b class='officer'>EX-VGM</b> now in guild <b>S W A G</b>)
